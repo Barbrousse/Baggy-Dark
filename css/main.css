@@ -283,12 +283,12 @@ h2:after {
   opacity: 1;
 }
 .tablemode {
-  background-image: url("../img/baggy/table.png");
+  background-image: url("../img/baggy-dark/table.png");
   background-repeat: no-repeat;
   background-position: bottom;
 }
 .listmode {
-  background-image: url("../img/baggy/list.png");
+  background-image: url("../img/baggy-dark/list.png");
   background-repeat: no-repeat;
   background-position: bottom;
 }
@@ -511,6 +511,7 @@ footer a {
 .pagination {
   text-align: right;
   margin-bottom:50px;
+  color: #999;
 }
 
 .nb-results {
